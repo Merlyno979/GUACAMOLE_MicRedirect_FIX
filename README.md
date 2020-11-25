@@ -1,5 +1,7 @@
 # GUACAMOLE_MicRedirect_FIX
 
+The problem is: Guacamole RDP audio mic redirection is intermittent
+
 Deply this pachee why i have spent one week to find resolv the RDP problem in the version 1.2.0 of Guacamole.
 So... i found this post: https://github.com/apache/guacamole-server/pull/312#issuecomment-723833894&#010
 "myjimmy" have resolv the problem and i decide to download your repository for resolv my problem but after installation not work.
